@@ -1,2 +1,3 @@
 # first-python-project
-learning python
+learning python from https://www.programiz.com/python-programming
+
